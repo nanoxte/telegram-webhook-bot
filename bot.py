@@ -2,7 +2,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, WebAppInfo, Upd
 from telegram.ext import Application, CommandHandler, CallbackContext
 
 # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with your actual bot token
-TELEGRAM_TOKEN = 'your tokken'
+TELEGRAM_TOKEN = '6853424446:AAFASYyn2U39nUZdNVckjR0FcVozYTTp8z4'
 
 async def start(update: Update, context: CallbackContext) -> None:
     # Define the Web App link you want to open inside Telegram as a modal
